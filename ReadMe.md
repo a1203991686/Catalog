@@ -7,7 +7,11 @@
   
 ## Java
 - [JavaStudy](https://github.com/a1203991686/JavaStudy)   
-学习Java过程中跟着网课所写的练习代码。
+学习Java过程中跟着网课所写的练习代码。(2020.6.16：由于仓库结构存在问题，于是放弃此仓库，目前主要代码都在KotlinStudy中更新)
+
+## Kotlin
+- [KotlinStudy](https://github.com/a1203991686/KotlinStudy)
+主要是学习Kotlin的一些小代码，但是其中也包含Leetcode代码、编译原理词法分析语法分析器代码、模拟洗衣机代码等等。
 
 ## Android-Java
 - [Android](https://github.com/a1203991686/Android)   
